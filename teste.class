@@ -1,0 +1,12 @@
+class Test{
+	public static void main{
+		int i = 0;
+		int j = 10;
+		
+		int result = i + j;
+		
+		System.out.printl("O resultado é: " + result);
+	}
+}
+
+
